@@ -1,6 +1,6 @@
-# Terrablox
+# TerraBlox
 
-Terrablox is a **2D Minecraft-inspired game** built with **p5.js**. I created this project for a school assignment over the course of **two weeks**. It demonstrates my ability to work with graphics, animations, player controls, camera systems, and interactive tile-based environments.
+TerraBlox is a **2D Minecraft-inspired game** built with **p5.js**. I created this project for a school assignment over the course of **two weeks**. It demonstrates my ability to work with graphics, animations, player controls, camera systems, and interactive tile-based environments.
 
 ---
 
