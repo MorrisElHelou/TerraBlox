@@ -30,7 +30,8 @@ TerraBlox is a **2D Minecraft-inspired game** built with **p5.js**. I created th
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/morriselhelou/terrablox
+   git clone https://github.com/MorrisElHelu/TerraBlox
+   ```
 2. Make sure the Assets folder with images (```Grass.png```, ```Dirt.png```, ```Wood.png```, ```Steve.png```, ```Steve_right.png```) and ```tilemap.txt``` are in the root directory.
 3. Open ```index.html``` (or ```sketch.js``` in a p5.js environment) in your browser.
 
